@@ -1,0 +1,18 @@
+Subject: ⚠️ Urgent: Your Amazon Account Has Been Restricted
+
+From: Amazon Account Team <account-alert@amazon-security-check.com>
+To: customer@example.com
+
+Dear Customer,
+
+We detected unusual activity on your Amazon account.
+
+For your security, your account has been temporarily restricted. Please verify your account information within 24 hours to prevent permanent suspension.
+
+Verify Your Account:
+http://amazon-account-verify[.]com/login
+
+If you do not complete the verification, your account access and pending orders may be cancelled.
+
+Thank you,
+Amazon Account Security Team

@@ -1,0 +1,15 @@
+Subject: Your Monthly Account Statement
+
+From: Customer Support <support@examplebank.com>
+To: customer@example.com
+
+Dear Pranesh,
+
+Your monthly account statement is now available through your usual online banking portal.
+
+You can access your account by opening the official banking application or by manually entering the bank's website address in your browser.
+
+If you did not request this statement, please contact customer support using the phone number listed on the official bank website.
+
+Regards,
+Customer Support

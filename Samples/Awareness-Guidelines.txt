@@ -1,0 +1,128 @@
+PHISHING AWARENESS GUIDELINES
+=============================
+
+HOW TO IDENTIFY A PHISHING EMAIL
+--------------------------------
+
+1. Check the Sender Address
+Look carefully at the complete email address, not just the displayed sender name.
+Be suspicious of unfamiliar domains, misspellings, or domains designed to imitate trusted organizations.
+
+2. Look for Urgency
+Phishing emails often create pressure by using deadlines such as:
+"Act within 24 hours"
+"Your account will be suspended"
+"Immediate verification required"
+
+3. Watch for Threatening Language
+Messages that threaten account closure, financial loss, legal action, or security problems may be using fear to influence the recipient.
+
+4. Check Links Before Clicking
+Hover over links to inspect the destination.
+Be cautious when the displayed link does not match the expected organization's official domain.
+
+5. Never Share Sensitive Information
+Legitimate organizations generally should not ask users to provide passwords, OTPs, PINs, or complete payment credentials through suspicious email links.
+
+6. Be Careful With Attachments
+Do not open unexpected attachments, especially executable files or documents received from unknown senders.
+
+7. Check the Greeting and Message Quality
+Generic greetings, unusual wording, spelling mistakes, and inconsistent branding can be warning signs.
+
+8. Check Reply-To Information
+The Reply-To address may be different from the visible sender address.
+An unexpected or suspicious Reply-To address should be treated as a warning sign.
+
+9. Verify Through an Official Channel
+If an email claims there is a problem with your account, open the organization's official application or manually enter its known website address instead of using the email link.
+
+10. Check Email Authentication When Available
+Security teams can review SPF, DKIM, and DMARC results in the email headers.
+Authentication failures can provide additional evidence that a message may be suspicious.
+
+
+EMPLOYEE DO'S
+-------------
+
+DO verify suspicious requests through an official website or application.
+
+DO inspect the sender's complete email address.
+
+DO hover over links before clicking them.
+
+DO report suspicious emails to the organization's security or IT team.
+
+DO verify unexpected payment, password-reset, or account-change requests using a trusted communication channel.
+
+DO use multi-factor authentication where available.
+
+DO delete suspicious messages after reporting them according to organizational policy.
+
+
+EMPLOYEE DON'TS
+---------------
+
+DON'T click suspicious links.
+
+DON'T open unexpected attachments.
+
+DON'T provide passwords, OTPs, PINs, or banking information through email links.
+
+DON'T reply to suspicious messages.
+
+DON'T trust an email simply because the displayed sender name looks familiar.
+
+DON'T ignore browser or security warnings.
+
+DON'T install software requested by an unexpected email.
+
+DON'T bypass organizational security controls to access a suspicious website.
+
+
+WHAT TO DO IF YOU CLICKED A SUSPICIOUS LINK
+-------------------------------------------
+
+1. Stop entering information immediately.
+
+2. Close the suspicious webpage.
+
+3. Report the incident to the organization's IT or security team.
+
+4. If credentials were entered, change the affected password using the legitimate website or application.
+
+5. If the same password was reused elsewhere, change it on those services as well.
+
+6. Enable multi-factor authentication where available.
+
+7. Follow the organization's incident-response instructions.
+
+
+SIMPLE PHISHING ATTACK FLOW
+---------------------------
+
+FAKE EMAIL
+    ↓
+URGENCY OR FEAR
+    ↓
+SUSPICIOUS LINK / ATTACHMENT
+    ↓
+USER INTERACTION
+    ↓
+CREDENTIAL OR INFORMATION THEFT RISK
+
+
+KEY TAKEAWAY
+------------
+
+Phishing attacks rely heavily on social engineering.
+
+Before clicking a link, opening an attachment, or providing sensitive information:
+
+STOP → CHECK → VERIFY → REPORT
+
+
+NOTE
+----
+
+This awareness material was created for cybersecurity education and employee security awareness as part of the Future Interns cybersecurity project.

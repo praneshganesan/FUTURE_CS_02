@@ -1,0 +1,22 @@
+SYNTHETIC EMAIL HEADER SAMPLE
+=============================
+
+Return-Path: <security-alert@amazon-security-check.example>
+Received: from suspicious-mail.example
+        by mail.example.com
+        with ESMTP id ABC123
+        for <user@example.com>;
+
+From: "Amazon Account Team" <security-alert@amazon-security-check.example>
+To: <user@example.com>
+Subject: Urgent: Your Amazon Account Has Been Restricted
+Date: Tue, 06 Oct 2026 10:15:00 +0000
+Message-ID: <training-example-001@example>
+Reply-To: <security-alert@amazon-security-check.example>
+
+Authentication-Results:
+spf=fail
+dkim=none
+dmarc=fail
+
+Content-Type: text/html

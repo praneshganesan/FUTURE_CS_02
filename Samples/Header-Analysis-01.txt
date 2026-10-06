@@ -1,0 +1,39 @@
+EMAIL HEADER ANALYSIS 01
+========================
+
+Classification: PHISHING
+
+KEY OBSERVATIONS
+----------------
+
+1. SPF: FAIL
+The sender domain did not pass the SPF authentication check.
+
+2. DKIM: NONE
+No DKIM signature was present in the sample header.
+
+3. DMARC: FAIL
+The message failed DMARC authentication.
+
+4. Sender Domain
+The sender address uses a suspicious domain that attempts to appear related to Amazon.
+
+5. Reply-To
+The Reply-To address points to the same suspicious domain.
+
+ANALYST ASSESSMENT
+------------------
+
+The authentication results provide multiple warning signs. SPF and DMARC failures, combined with a suspicious sender domain, increase the likelihood that the message is fraudulent.
+
+RECOMMENDED ACTION
+------------------
+
+Do not trust the email based only on the displayed sender name.
+
+Verify the message through the organization's official website or application and report suspicious messages to the security team.
+
+NOTE
+----
+
+This is a synthetic training header created for educational purposes. No real email was sent or analyzed.

@@ -1,0 +1,44 @@
+PHISHING EMAIL ANALYSIS 02
+==========================
+
+Classification: PHISHING
+
+Email Type: Trading / Investment Account Alert
+
+PHISHING INDICATORS
+-------------------
+
+1. Sender Domain
+The sender uses a suspicious trading-related domain.
+
+2. Urgency
+The email gives the recipient only 12 hours to respond.
+
+3. Financial Targeting
+The message specifically targets a trading or investment account.
+
+4. Threatening Language
+It warns that the account may be restricted.
+
+5. Suspicious Link
+The email provides an unfamiliar trading-account verification URL.
+
+6. Social Engineering
+The message creates fear about account security and access to funds.
+
+ANALYST ASSESSMENT
+------------------
+
+The email attempts to create panic by claiming unusual account activity and threatening account restrictions. The suspicious verification link is a strong phishing indicator.
+
+RECOMMENDED ACTION
+------------------
+
+Do not click the link or enter credentials.
+
+Access the trading platform through its official application or by manually entering the known official website address.
+
+NOTE
+----
+
+This is a synthetic educational phishing sample created for cybersecurity training.

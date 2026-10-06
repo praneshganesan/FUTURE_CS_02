@@ -1,0 +1,20 @@
+Subject: 🚨 Action Required: Trading Account Verification
+
+From: Investment Support <security@trading-account-alert.com>
+To: investor@example.com
+
+Dear Investor,
+
+We detected an unusual login attempt on your trading account.
+
+To protect your funds, you must verify your account immediately.
+
+Verify Trading Account:
+http://secure-trading-verify[.]com/account
+
+You must complete verification within 12 hours. Failure to verify may result in temporary account restrictions.
+
+Do not reply to this email with your password, OTP, or banking information.
+
+Regards,
+Account Security Team

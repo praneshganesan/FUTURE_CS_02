@@ -1,0 +1,44 @@
+PHISHING EMAIL ANALYSIS 01
+==========================
+
+Classification: PHISHING
+
+Email Type: Amazon-style Account Alert
+
+PHISHING INDICATORS
+-------------------
+
+1. Sender Domain
+The sender uses a suspicious domain that attempts to look like an Amazon security address.
+
+2. Urgency
+The email gives the recipient only 24 hours to respond.
+
+3. Threatening Language
+It claims the account may be permanently suspended.
+
+4. Generic Greeting
+The email starts with "Dear Customer" instead of using the recipient's name.
+
+5. Suspicious Link
+The email provides a link to an unfamiliar account-verification domain.
+
+6. Information Request
+The recipient is encouraged to verify account information through the provided link.
+
+ANALYST ASSESSMENT
+------------------
+
+The email uses urgency, fear of account suspension, and a suspicious sender domain to encourage the recipient to click a verification link. These are common phishing indicators.
+
+RECOMMENDED ACTION
+------------------
+
+Do not click the link or provide account information.
+
+Access the service through the official Amazon application or by manually entering the known official website address.
+
+NOTE
+----
+
+This is a synthetic educational phishing sample created for cybersecurity training.
